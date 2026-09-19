@@ -24,14 +24,14 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  MASJJOOOO                                                    │
-│                                                              │
-│  Developer who enjoys building practical digital products,  │
-│  automation tools and experimental web systems.              │
-│                                                              │
-│  Focus     →  Web Development · Automation · APIs            │
-│  Workflow  →  Build · Test · Improve · Repeat                │
-│  Approach  →  Simple interfaces, useful systems              │
+│  MASJJOOOO                                                              │
+│                                                                         │
+│  Developer who enjoys building practical digital products,              │
+│  automation tools and experimental web systems.                         │
+│                                                                         │
+│  Focus     →  Web Development · Automation · APIs                      │
+│  Workflow  →  Build · Test · Improve · Repeat                          │
+│  Approach  →  Simple interfaces, useful systems                        │
 └──────────────────────────────────────────────────────────────┘
 ```
 
