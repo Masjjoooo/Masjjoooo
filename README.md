@@ -85,7 +85,6 @@ I prefer **simple interfaces, practical systems and clean execution.**
 
 ### ✦ CURRENT MODE
 
-```text
 STATUS       ● ONLINE
 
 BUILDING     Digital Systems
@@ -263,4 +262,3 @@ alt="Footer"
 />
 
 </div>
-```
