@@ -18,6 +18,8 @@
 
 </div>
 
+<iframe src="https://github.com/sponsors/Masjjoooo/card" title="Sponsor Masjjoooo" height="225" width="600" style="border: 0;"></iframe>
+
 <br/>
 
 ## `whoami`
