@@ -1,219 +1,146 @@
-<div align="center"><a href="https://github.com/Masjjoooo">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1d4ed8&height=220&section=header&text=MASJJOOOO&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Digital%20Systems%20%2F%20Automation%20%2F%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-</a><br><a href="https://github.com/Masjjoooo">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Building+practical+digital+systems;Automation+%2B+Web+%2B+APIs;Turning+ideas+into+working+software;Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0b1f3a,100:2563eb&text=MASJJOOOO&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/><br><a href="https://github.com/Masjjoooo">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+digital+systems;Creating+automation+tools;Developing+web+applications;Experimenting+with+new+ideas" alt="Typing animation"/>
 </a><br><br>
 
 <a href="https://github.com/Masjjoooo">
-<img src="https://img.shields.io/badge/STATUS-ONLINE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Masjjoooo?style=flat-square&label=Followers&color=2563EB&labelColor=0F172A"/>
 </a>
 &nbsp;
 <a href="https://github.com/Masjjoooo?tab=repositories">
-<img src="https://img.shields.io/badge/BUILDING-DIGITAL%20SYSTEMS-0F172A?style=for-the-badge&logo=code&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Repositories-5-2563EB?style=flat-square&labelColor=0F172A"/>
 </a>
 &nbsp;
-<a href="https://github.com/Masjjoooo">
-<img src="https://img.shields.io/badge/MODE-OPEN%20SOURCE-1E293B?style=for-the-badge&logo=opensourceinitiative&logoColor=60A5FA"/>
-</a></div><br>---
+<a href="https://github.com/sponsors/Masjjoooo">
+<img src="https://img.shields.io/badge/Sponsor-2563EB?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0F172A"/>
+</a></div><br><div align="center">"Turning ideas into systems."
 
-<div align="center">"~/profile"
+I build practical digital products, automation tools, web applications,
+APIs, and experimental projects.
 
-Developer • Builder • Automation Enthusiast
+<br><img src="https://img.shields.io/badge/WEB-0F172A?style=for-the-badge&logo=googlechrome&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/AUTOMATION-0F172A?style=for-the-badge&logo=githubactions&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/BACKEND-0F172A?style=for-the-badge&logo=serverless&logoColor=60A5FA"/></div><br><br>
 
-I build digital products, automation tools, web applications, APIs,
-and experimental systems focused on practical execution.
+---
 
-<br>"WEB"   "AUTOMATION"   "BACKEND"   "API"   "EXPERIMENTS"
+<div align="center">✦ About
 
-</div><br>🖥️ Developer Terminal
-
-┌──────────────────────────────────────────────────────────────────────┐
-│  masjjoooo@github                                      ~/profile     │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  $ whoami                                                            │
-│  Masjjoooo                                                           │
-│                                                                      │
-│  $ system --status                                                   │
-│  ● ONLINE                                                            │
-│                                                                      │
-│  $ system --role                                                      │
-│  Developer / Builder / Automation                                    │
-│                                                                      │
-│  $ current_focus                                                     │
-│  Digital systems · Web · APIs · Automation                           │
-│                                                                      │
-│  $ philosophy                                                        │
-│  Build useful things. Keep them simple.                              │
-│                                                                      │
-│  $ workflow                                                          │
-│  Build  →  Test  →  Improve  →  Ship                                │
-│                                                                      │
-│  $ deployment                                                        │
-│  ████████████████████████████████████████ 100%                      │
-│                                                                      │
-│  $ status --all                                                      │
-│  [✓] Projects active                                                 │
-│  [✓] Experiments running                                             │
-│  [✓] Open source                                                     │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-
-<br><div align="center"><img src="https://img.shields.io/badge/⌘_COMMAND_MODE-ENABLED-020617?style=for-the-badge&labelColor=0f172a&color=1d4ed8"/></div><br>⚙️ Tech Stack
-
-<div align="center"><a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="52"/>
-</a>
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" height="52"/>
-</a>
-<a href="https://www.php.net/">
-<img src="https://skillicons.dev/icons?i=php" height="52"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" height="52"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="52"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" height="52"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="52"/>
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" height="52"/>
-</a>
-<a href="https://vercel.com/">
-<img src="https://skillicons.dev/icons?i=vercel" height="52"/>
-</a>
-<a href="https://www.cloudflare.com/">
-<img src="https://skillicons.dev/icons?i=cloudflare" height="52"/>
-</a><br><br>
-
-"Python" "Node.js" "PHP" "JavaScript" "HTML" "CSS" "Git" "GitHub" "Vercel" "Cloudflare"
-
-</div><br>---
-
-📊 GitHub Analytics
-
-<div align="center"><a href="https://github.com/Masjjoooo">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Masjjoooo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&ring_color=2563EB&include_all_commits=true&count_private=true"/>
-</a><a href="https://github.com/Masjjoooo">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masjjoooo&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&langs_count=8"/>
-</a></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=Masjjoooo&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" width="80%"/></div><br>---
-
-🌌 Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Masjjoooo&bg_color=0D1117&color=60A5FA&line=2563EB&point=93C5FD&area=true&hide_border=true&custom_title=Masjjoooo%20Contribution%20Activity" width="100%"/></div><br>---
-
-🐍 Contribution System
-
-<div align="center"><a href="https://github.com/Masjjoooo/Masjjoooo">
-<img src="https://raw.githubusercontent.com/Masjjoooo/Masjjoooo/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-</a><br><sub>Automatically generated from my GitHub contribution graph.</sub>
-
-</div><br>---
-
-🚀 What I Build
-
-<table>
+</div><table align="center">
 <tr>
-<td width="33%" valign="top">🌐 WEB
+<td width="50%" valign="top">Who I Am
 
-Modern interfaces, dashboards, digital platforms and responsive web systems.
+I'm Masjjoooo, a developer focused on turning ideas into practical software.
 
-</td><td width="33%" valign="top">⚙️ AUTOMATION
+I enjoy building things that solve real problems, automating repetitive workflows, and experimenting with technologies that can become useful systems.
 
-Bots, workflow automation, utilities and systems that reduce repetitive work.
+</td><td width="50%" valign="top">How I Work
 
-</td><td width="33%" valign="top">🧪 EXPERIMENTS
+IDEA
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+IMPROVE
+ ↓
+SHIP
 
-Ideas, prototypes and unusual technical experiments built to learn and test.
+I prefer clean interfaces, practical architecture, simple workflows, and continuous improvement.
 
 </td>
 </tr>
 </table><br>---
 
-🔬 Current Environment
+<div align="center">✦ Developer Mode
 
-┌────────────────────────────────────────────────────────────┐
-│ ENVIRONMENT                                                           │
-├────────────────────────────────────────────────────────────┤
-│                                                                       │
-│  Runtime       → Python / Node.js / PHP                              │
-│  Frontend      → HTML / CSS / JavaScript                             │
-│  Backend       → APIs / Automation / Web Systems                     │
-│  Deployment    → Vercel / Cloudflare / GitHub                        │
-│  Development   → Termux / Linux / Git                                │
-│                                                                       │
-│  Priority      → Practical systems                                   │
-│  Approach      → Simple architecture                                 │
-│  Goal          → Useful software                                     │
-│                                                                       │
-└────────────────────────────────────────────────────────────┘
+<br><a href="https://github.com/Masjjoooo"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+system+--status;%24+developer+--mode;%24+build+--active;%24+open+source+--enabled" alt="Developer mode"/></a><br><table align="center">
+<tr>
+<td align="center">STATUS
 
-<br>---
+<br><img src="https://img.shields.io/badge/●_ONLINE-2563EB?style=flat-square&labelColor=0F172A"/></td><td align="center">FOCUS
 
-📦 Selected Projects
+<br><img src="https://img.shields.io/badge/DIGITAL_SYSTEMS-2563EB?style=flat-square&labelColor=0F172A"/></td><td align="center">MODE
 
-<div align="center"><a href="https://github.com/Masjjoooo/sopi-vidio-downloader">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=sopi-vidio-downloader&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9"/>
-</a><a href="https://github.com/Masjjoooo/Telebot_Vercel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=Telebot_Vercel&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9"/>
-</a></div><br><div align="center"><a href="https://github.com/Masjjoooo?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div><br>---
+<br><img src="https://img.shields.io/badge/BUILDING-2563EB?style=flat-square&labelColor=0F172A"/></td>
+</tr>
+</table></div><br>---
 
-💙 Support Development
+<div align="center">✦ Technology
 
-<div align="center">If you find my projects useful, you can support the development,
-maintenance and future experiments.
+<br><img src="https://skillicons.dev/icons?i=python,nodejs,php,js,html,css,git,github,vercel,cloudflare&perline=10" /><br><br>
 
-<br><a href="https://github.com/sponsors/Masjjoooo">
-<img src="https://img.shields.io/badge/SPONSOR%20MASJJOOOO-2563EB?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-</a><br><br>
+"Python" · "Node.js" · "PHP" · "JavaScript" · "HTML" · "CSS"
 
-<sub>Every contribution helps keep projects alive and gives me more room to build.</sub>
+"Git" · "GitHub" · "Vercel" · "Cloudflare"
 
 </div><br>---
 
-🛰️ System Log
+<div align="center">✦ GitHub Activity
 
-[10:24:01] booting developer profile...
-[10:24:02] loading projects.................... OK
-[10:24:03] loading automation modules......... OK
-[10:24:04] loading open-source systems........ OK
-[10:24:05] checking contribution graph....... OK
-[10:24:06] initializing build environment.... OK
+<br><a href="https://github.com/Masjjoooo"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Masjjoooo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><a href="https://github.com/Masjjoooo"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masjjoooo&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"/></a><br><br>
 
-> system ready
+<img src="https://streak-stats.demolab.com?user=Masjjoooo&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" width="72%"/></div><br>---
 
-Masjjoooo is currently:
-● BUILDING
-● EXPERIMENTING
-● LEARNING
-● SHIPPING
+<div align="center">✦ Contribution Activity
 
-<br>---
+<br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Masjjoooo&bg_color=0D1117&color=94A3B8&line=2563EB&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/></div><br>---
 
-🔗 Connect
+<div align="center">✦ Contribution Snake
 
-<div align="center"><a href="https://github.com/Masjjoooo">
+<br><img src="https://raw.githubusercontent.com/Masjjoooo/Masjjoooo/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution Snake"/></div><br>---
+
+<div align="center">✦ What I Build
+
+</div><table align="center">
+<tr>
+<td align="center" width="33%">🌐
+
+WEB SYSTEMS
+
+Modern interfaces, dashboards, landing pages, and digital platforms.
+
+</td><td align="center" width="33%">⚙️
+
+AUTOMATION
+
+Bots, workflow automation, utilities, APIs, and repetitive-task systems.
+
+</td><td align="center" width="33%">🧪
+
+EXPERIMENTS
+
+Prototypes, experiments, new technologies, and unusual ideas.
+
+</td>
+</tr>
+</table><br>---
+
+<div align="center">✦ Selected Projects
+
+<br><a href="https://github.com/Masjjoooo/sopi-vidio-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=sopi-vidio-downloader&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><a href="https://github.com/Masjjoooo/Jalando_Register"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=Jalando_Register&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><br><a href="https://github.com/Masjjoooo/Telebot_Vercel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=Telebot_Vercel&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><a href="https://github.com/Masjjoooo/mak-erot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=mak-erot&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><br><br>
+
+<a href="https://github.com/Masjjoooo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a></div><br>---
+
+<div align="center">✦ Support My Work
+
+<br>If something I build is useful to you,
+you can support the development of future projects.
+
+<br><br>
+
+<a href="https://github.com/sponsors/Masjjoooo"><img src="https://img.shields.io/badge/♥_BECOME_A_SPONSOR-2563EB?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0F172A"/></a></div><br>---
+
+<div align="center">✦ Connect
+
+<br><a href="https://github.com/Masjjoooo">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/sponsors/Masjjoooo">
-<img src="https://img.shields.io/badge/Sponsors-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Masjjoooo?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=60A5FA"/>
-</a></div><br><br>
+</a><a href="https://github.com/Masjjoooo?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+</a><a href="https://github.com/sponsors/Masjjoooo">
+<img src="https://img.shields.io/badge/Sponsors-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=60A5FA"/>
+</a><br><br>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:0f172a,100:020617&height=120&section=footer&animation=fadeIn"/><br><sub>"BUILD" • "TEST" • "IMPROVE" • "SHIP"
+<sub>"BUILD" · "TEST" · "IMPROVE" · "SHIP"
 
-<br>Made with code, curiosity and too many ideas.
-
-</sub></div>
+</sub></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0b1f3a,100:020617&height=130&section=footer" width="100%"/></div>
