@@ -106,12 +106,6 @@ Prototypes, experiments, new technologies, and unusual ideas.
 </tr>
 </table><br>---
 
-<div align="center">✦ Selected Projects
-
-<br><a href="https://github.com/Masjjoooo/sopi-vidio-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=sopi-vidio-downloader&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><a href="https://github.com/Masjjoooo/Jalando_Register"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=Jalando_Register&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><br><a href="https://github.com/Masjjoooo/Telebot_Vercel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=Telebot_Vercel&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><a href="https://github.com/Masjjoooo/mak-erot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Masjjoooo&repo=mak-erot&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><br><br>
-
-<a href="https://github.com/Masjjoooo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a></div><br>---
-
 <div align="center">✦ Support My Work
 
 <br>If something I build is useful to you,
@@ -131,6 +125,6 @@ you can support the development of future projects.
 <img src="https://img.shields.io/badge/Sponsors-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=60A5FA"/>
 </a><br><br>
 
-<sub>"BUILD" · "TEST" · "IMPROVE" · "SHIP"
+<sub>"BUILD" · "TEST" · "IMPROVE" · "GENJOT"
 
 </sub></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0b1f3a,100:020617&height=130&section=footer" width="100%"/></div>
