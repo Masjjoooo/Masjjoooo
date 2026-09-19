@@ -78,8 +78,6 @@ I prefer clean interfaces, practical architecture, simple workflows, and continu
 
 <div align="center">✦ GitHub Activity
 
-<br><a href="https://github.com/Masjjoooo"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Masjjoooo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/></a><a href="https://github.com/Masjjoooo"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masjjoooo&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"/></a><br><br>
-
 <img src="https://streak-stats.demolab.com?user=Masjjoooo&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" width="72%"/></div><br>---
 
 <div align="center">✦ Contribution Activity
