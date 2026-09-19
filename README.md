@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Sponsor-2563EB?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0F172A"/>
 </a></div><br><div align="center">"Turning ideas into systems."
 
-I build practical digital products, automation tools, web applications,
+I build practical & genjot digital products, automation tools, web applications,
 APIs, and experimental projects.
 
 <br><img src="https://img.shields.io/badge/WEB-0F172A?style=for-the-badge&logo=googlechrome&logoColor=60A5FA"/>
