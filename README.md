@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0b1f3a,100:2563eb&text=MASJJOOOO&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/><br><a href="https://github.com/Masjjoooo">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+digital+systems;Creating+automation+tools;Developing+web+applications;Experimenting+with+new+ideas" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Genjot+and+Building+digital+systems;Creating+automation+tools;Developing+web+applications;Experimenting+with+new+ideas" alt="Typing animation"/>
 </a><br><br>
 
 <a href="https://github.com/Masjjoooo">
