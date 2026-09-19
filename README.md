@@ -78,15 +78,7 @@ I prefer clean interfaces, practical architecture, simple workflows, and continu
 
 <div align="center">✦ GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=Masjjoooo&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" width="72%"/></div><br>---
-
-<div align="center">✦ Contribution Activity
-
-<br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Masjjoooo&bg_color=0D1117&color=94A3B8&line=2563EB&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/></div><br>---
-
-<div align="center">✦ Contribution Snake
-
-<br><img src="https://raw.githubusercontent.com/Masjjoooo/Masjjoooo/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution Snake"/></div><br>---
+<div><img src="https://streak-stats.demolab.com?user=Masjjoooo&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" width="72%"/></div><br>---
 
 <div align="center">✦ What I Build
 
